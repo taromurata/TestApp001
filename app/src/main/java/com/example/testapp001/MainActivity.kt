@@ -1,7 +1,7 @@
 package com.example.testapp001
 
 import androidx.appcompat.app.AppCompatActivity
-import android.R
+//import android.R
 import android.content.Intent
 import android.widget.EditText
 import android.os.Bundle as Bundle
