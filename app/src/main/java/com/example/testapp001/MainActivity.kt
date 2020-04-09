@@ -20,4 +20,3 @@ class MainActivity : AppCompatActivity() {
         // Do something in response to button
     }
 }
-
